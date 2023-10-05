@@ -1,0 +1,11 @@
+html, body {
+  margin:0px;
+  padding: 0;
+  background-color: rgb(26, 26, 26);
+  display: grid;
+  /* overflow: hidden; */
+}
+
+canvas {
+  display: block;
+}
